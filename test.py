@@ -9,7 +9,7 @@ if daje == "Roma":
 
 val = "Me"
 if val != "Me":
-    print("Theo")
+    print("Not Me")
 else:
     print(val)
 
