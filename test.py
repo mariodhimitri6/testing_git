@@ -6,3 +6,9 @@ print("Hello this is secondly added line")
 daje = "Roma"
 if daje == "Roma":
     print("Daje Roma Daje")
+
+val = "Me"
+if val != "Me":
+    print("Theo")
+else:
+    print(val)
