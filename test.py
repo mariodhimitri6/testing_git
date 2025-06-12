@@ -84,16 +84,7 @@ legs_recall = """
 pdf.multi_cell(0, 10, clean_text(legs_recall))
 pdf.ln(10)
 
-# Day 4 - Shoulders & Abs
-shoulders_abs = """
-2. Lateral + Front Raise Superset - 3 sets (15-12-10)
-3. Arnold Press - 3 sets (12-10-8)
-4. Rear Delt Flyes - 3 sets (15-12-12)
-5. Upright Rows - 3 sets (12-10-8)
-6. Cable/Hanging Leg Raises - 3 sets (15-15-12)
-7. Cable Crunches - 3 sets (15-12-12)
-8. Plank - 3 x 60s
-"""
+
 pdf.multi_cell(0, 10, clean_text(shoulders_abs))
 pdf.ln(10)
 
@@ -102,15 +93,7 @@ pdf.set_font("Helvetica", 'B', 14)
 pdf.cell(200, 10, txt="Diet Plan (For Cutting Phase)", ln=True)
 pdf.set_font("Helvetica", size=12)
 diet_plan = """
-**Meal 1 (Breakfast):**
-- 4 scrambled eggs with spinach (cooked in olive oil)
-- 1 whole-grain toast or oatmeal
-- 1 cup black coffee or green tea
-- 1 serving of multivitamins
 
-**Meal 2 (Snack):**
-- Greek yogurt (unsweetened) with berries
-- 1 serving of whey protein or a protein bar
 
 **Meal 3 (Lunch):**
 - Grilled chicken breast (6 oz)
