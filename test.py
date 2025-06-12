@@ -88,10 +88,6 @@ pdf.ln(10)
 pdf.multi_cell(0, 10, clean_text(shoulders_abs))
 pdf.ln(10)
 
-# Diet Plan
-pdf.set_font("Helvetica", 'B', 14)
-pdf.cell(200, 10, txt="Diet Plan (For Cutting Phase)", ln=True)
-pdf.set_font("Helvetica", size=12)
 diet_plan = """
 
 
@@ -111,9 +107,6 @@ diet_plan = """
 - Roasted sweet potatoes or steamed asparagus
 - Mixed green salad (with olive oil or balsamic vinegar dressing)
 
-**Meal 6 (Post-Dinner):**
-- Cottage cheese or Greek yogurt
-- A small portion of mixed berries
 """
 pdf.multi_cell(0, 10, clean_text(diet_plan))
 pdf.ln(10)
