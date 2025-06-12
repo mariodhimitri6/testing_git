@@ -77,24 +77,15 @@ legs_recall = """
 
 **Recall (Chest, Back, Arms):**
 - Chest:
-  1. Incline Dumbbell Press - 3 sets (15-12-10)
-  2. Machine Chest Press - 3 sets (12-10-10)
 - Back:
   1. Lat Pulldowns - 3 sets (12-10-10)
-  2. Seated Cable Rows - 3 sets (12-10-10)
 - Arms:
-  1. Barbell Curls - 3 sets (15-12-10)
-  2. Triceps Pushdowns - 3 sets (15-12-10)
 """
 pdf.multi_cell(0, 10, clean_text(legs_recall))
 pdf.ln(10)
 
 # Day 4 - Shoulders & Abs
-pdf.set_font("Helvetica", 'B', 14)
-pdf.cell(200, 10, txt="Day 4 - Shoulders & Abs", ln=True)
-pdf.set_font("Helvetica", size=12)
 shoulders_abs = """
-1. Overhead Press - 4 sets (15-12-10-8)
 2. Lateral + Front Raise Superset - 3 sets (15-12-10)
 3. Arnold Press - 3 sets (12-10-8)
 4. Rear Delt Flyes - 3 sets (15-12-12)
