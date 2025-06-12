@@ -13,10 +13,9 @@ pdf.ln(10)
 # Function to replace problematic characters with ASCII characters
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
-#add 1 commet
-#handiamo
-#daje
-pdf.set_font("Helvetica", size=12)
+#add 1 asdf
+#dajeromadaje
+# pdf.set_font("Helvetica", size=12)
 pdf.cell(200, 10, txt="Weekly Workout Structure:", ln=True)
 pdf.ln(5)
 weekly_structure = """
