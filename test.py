@@ -15,8 +15,7 @@ def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
 #add 1 commet
 #handiamo
-print("Bugfix 2")
-
+#daje
 pdf.set_font("Helvetica", size=12)
 pdf.cell(200, 10, txt="Weekly Workout Structure:", ln=True)
 pdf.ln(5)
@@ -184,3 +183,6 @@ pdf_output_path = "High_Volume_Cutting_Plan_4Day_with_Diet_and_Cardio.pdf"
 pdf.output(pdf_output_path)
 
 pdf_output_path
+print("letsgoski")
+print("hello")
+print("nice")
