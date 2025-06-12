@@ -18,7 +18,6 @@ def clean_text(text):
 print("Bugfix 1")
 print("Bugfix 2")
 
-# Weekly structure
 pdf.set_font("Helvetica", size=12)
 pdf.cell(200, 10, txt="Weekly Workout Structure:", ln=True)
 pdf.ln(5)
