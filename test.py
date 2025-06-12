@@ -39,7 +39,7 @@ chest_triceps = """
 3. Machine Chest Press - 3 sets (12-10-10)
 4. Cable or Pec Deck Flyes - 3 sets (15-12-12)
 5. Dips - 3 sets (10-10-8)
-6. Skullcrushers - 3 sets (12-10-8)
+6.  - 3  (12-10-8)
 7. Triceps Pushdowns - 3 sets (15-12-10)
 8. Pushups to failure - 2 sets
 """
