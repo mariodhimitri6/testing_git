@@ -13,6 +13,7 @@ pdf.ln(10)
 # Function to replace problematic characters with ASCII characters
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
+#add 1 commet
 #handiamo
 #daje
 pdf.set_font("Helvetica", size=12)
