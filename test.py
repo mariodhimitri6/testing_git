@@ -89,7 +89,7 @@ diet_plan = """
 #not nice
 #add nice
 
-**Meal 3 (Lunch):**
+**Meal r (Lunch):**
 - Grilled chicken breast (6 oz)
 - 1 cup of quinoa or brown rice
 - Steamed veggies (broccoli, spinach, etc.)
