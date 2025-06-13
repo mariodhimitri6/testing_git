@@ -11,7 +11,6 @@ pdf.ln(10)
 
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
-#add 1 commet
 print("Bugfix 2")
 print("fix")
 pdf.set_font("Helvetica", size=12)
