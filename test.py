@@ -14,7 +14,6 @@ pdf.ln(10)
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
 #add 1 commet
-#handiamo123
 print("Bugfix 2")
 
 pdf.set_font("Helvetica", size=12)
@@ -126,7 +125,6 @@ Cardio is essential during a cutting phase to help burn additional calories. Her
    - **Example:** Sprints, jump rope, burpees.
 
 **Sample Weekly Cardio Plan:**
-- **Monday:** 20-30 minutes steady-state cardio.
 - **Tuesday:** Rest or light walking.
 - **Wednesday:** 20-30 minutes steady-state cardio or 15-20 minutes HIIT.
 - **Thursday:** Rest or active recovery.
