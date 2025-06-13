@@ -110,12 +110,7 @@ diet_plan = """
 """
 pdf.multi_cell(0, 10, clean_text(diet_plan))
 pdf.ln(10)
-
-# Cardio Recommendations
-pdf.set_font("Helvetica", 'B', 14)
-pdf.cell(200, 10, txt="Cardio Recommendations (For Cutting Phase)", ln=True)
-pdf.set_font("Helvetica", size=12)
-cardio_plan = """
+"""
 Cardio is essential during a cutting phase to help burn additional calories. Here’s a recommended weekly cardio plan:
 
 **Frequency:** 3-5 cardio sessions per week.
