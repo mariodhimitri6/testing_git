@@ -127,7 +127,6 @@ Cardio is essential during a cutting phase to help burn additional calories. Her
 
 **2. HIIT (High-Intensity Interval Training):**
    - **Duration:** 15-25 minutes per session.
-   - **Frequency:** 1-2 times per week.
    - **Intensity:** High-intensity sprints or intervals.
    - **Example:** Sprints, jump rope, burpees.
 
