@@ -8,7 +8,7 @@ pdf.add_page()
 pdf.set_font("Helvetica", 'B', 16)  # Using Helvetica for better Unicode support
 pdf.cell(200, 10, txt="High-Volume Cutting Plan with Recall Day (4-Day Split)", ln=True, align="C")
 pdf.ln(10)
-
+#daje
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
 print("Bugfix 2")
