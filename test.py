@@ -93,7 +93,6 @@ diet_plan = """
 - Grilled chicken breast (6 oz)
 - 1 cup of quinoa or brown rice
 - Steamed veggies (broccoli, spinach, etc.)
-- Olive oil dressing (for the salad or veggies)
 
 **Meal 4 (Snack):**
 - Handful of almonds or walnuts
