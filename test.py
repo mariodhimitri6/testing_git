@@ -1,7 +1,7 @@
 from fpdf import FPDF
 
 # Create a PDF document
-pdf = FPDF()
+pdf = FPDF(hi)
 pdf.set_auto_page_break(auto=True, margin=15)
 pdf.add_page()
 
