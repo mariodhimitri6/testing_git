@@ -126,7 +126,6 @@ Cardio is essential during a cutting phase to help burn additional calories. Her
    - **Example:** Sprints, jump rope, burpees.
 
 **Sample Weekly Cardio Plan:**
-- **Monday:** 20-30 minutes steady-state cardio.
 - **Tuesday:** Rest or light walking.
 - **Wednesday:** 20-30 minutes steady-state cardio or 15-20 minutes HIIT.
 - **Thursday:** Rest or active recovery.
