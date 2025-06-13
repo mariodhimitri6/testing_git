@@ -5,7 +5,6 @@ pdf = FPDF(hi)
 pdf.set_auto_page_break(auto=True, margin=15)
 pdf.add_page()
 
-# Title of the PDF
 pdf.set_font("Helvetica", 'B', 16)  # Using Helvetica for better Unicode support
 pdf.cell(200, 10, txt="High-Volume Cutting Plan with Recall Day (4-Day Split)", ln=True, align="C")
 pdf.ln(10)
