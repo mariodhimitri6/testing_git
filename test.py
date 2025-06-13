@@ -9,7 +9,6 @@ pdf.set_font("Helvetica", 'B', 16)  # Using Helvetica for better Unicode support
 pdf.cell(200, 10, txt="High-Volume Cutting Plan with Recall Day (4-Day Split)", ln=True, align="C")
 pdf.ln(10)
 
-# Function to replace problematic characters with ASCII characters
 def clean_text(text):
     return text.replace("–", "-").replace("’", "'")  # Replace en dash with regular dash and fix apostrophe
 #add 1 commet
