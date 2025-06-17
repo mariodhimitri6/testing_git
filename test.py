@@ -19,8 +19,8 @@ pdf.ln(5)
 weekly_structure = """
 | Day       | Focus                                |
 |-----------|--------------------------------------|
-| Monday    | Chest & Triceps (High Volume)       |
-| Wednesday | Back & Biceps (High Volume)         |
+| Monday    | Back and Biceps (High Volume)       |
+| Wednesday | Back & Biceps ( Volume)         |
 | Friday    | Legs & Recall (Chest, Back, Arms)  |
 | Saturday  | Shoulders & Abs                     |
 """
