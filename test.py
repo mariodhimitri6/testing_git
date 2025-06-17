@@ -17,7 +17,6 @@ pdf.ln(5)
 weekly_structure = """
 | Day       | Focus                                |
 |-----------|--------------------------------------|
-| Monday    | Back and Biceps (High Volume)       |
 | Friday    | Legs & Recall (Chest, Back, Arms)  |
 | Saturday  | Shoulders & Abs                     |
 """
@@ -32,8 +31,6 @@ chest_triceps = """
 1. Barbell Bench Press - 4 sets (15-12-10-8)
 2. Incline Dumbbell Press - 4 sets (15-12-10-8)
 3. Machine Chest Press - 3 sets (12-10-10)
-4. Cable or Pec Deck Flyes - 3 sets (15-12-12)
-5. Dips - 3 sets (10-10-8)
 6. Skullcrushers - 3 sets (12-10-8)
 7. Triceps Pushdowns - 3 sets (15-12-10)
 8. Pushups to failure - 2 sets
