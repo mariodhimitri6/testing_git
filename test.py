@@ -110,13 +110,11 @@ pdf.ln(10)
 """
 Cardio is essential during a cutting phase to help burn additional calories. Here’s a recommended weekly cardio plan:
 
-**Frequency:** 3-5 cardio sessions per week.
 
 **1. Steady-State Cardio:**
    - **Duration:** 30-45 minutes per session.
    - **Intensity:** Moderate (60-70% of max heart rate).
-   - **Example:** Walking, cycling, or light jogging.
-
+walki
 **2. HIIT (High-Intensity Interval Training):**
    - **Duration:** 15-25 minutes per session.
    - **Intensity:** High-intensity sprints or intervals.
