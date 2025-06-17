@@ -31,7 +31,6 @@ chest_triceps = """
 1. Barbell Bench Press - 4 sets (15-12-10-8)
 2. Incline Dumbbell Press - 4 sets (15-12-10-8)
 3. Machine Chest Press - 3 sets (12-10-10)
-6. Skullcrushers - 3 sets (12-10-8)
 7. Triceps Pushdowns - 3 sets (15-12-10)
 8. Pushups to failure - 2 sets
 """
